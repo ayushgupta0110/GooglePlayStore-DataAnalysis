@@ -11,3 +11,6 @@ Source: [Kaggle](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
 # Inspiration
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
+
+## Project Description
+[Click here](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
